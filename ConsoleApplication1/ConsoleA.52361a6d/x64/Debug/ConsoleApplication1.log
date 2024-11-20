@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+  Stud.cpp
+D:\Visual studio\VC\Tools\MSVC\14.41.34120\include\utility(126,14): error C2440: 'initializing': cannot convert from 'Course' to 'Course'
+  (compiling source file 'Stud.cpp')
+      D:\Visual studio\VC\Tools\MSVC\14.41.34120\include\utility(126,14):
+      Cannot copy construct class 'Course' due to ambiguous copy constructors or no available copy constructor
+      D:\Visual studio\VC\Tools\MSVC\14.41.34120\include\utility(126,14):
+      the template instantiation context (the oldest one first) is
+          D:\ООП\лаба3\ConsoleApplication1\Stud.cpp(134,5):
+          see reference to function template instantiation 'void std::swap<_Ty,0>(_Ty &,_Ty &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Course
+          ]
+  
+  Generating Code...
