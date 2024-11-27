@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\LAB4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:LAB4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Security.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Security.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Security.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Security.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\WorkingStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:WorkingStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\WorkingStudent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:WorkingStudent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Enrollment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Enrollment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Enrollment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Enrollment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\AbsCourse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:AbsCourse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\AbsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:AbsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Stud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Stud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Stud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Stud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Tech.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Tech.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Tech.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Tech.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Example.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C91177-3C02-4685-9C04-BE0C72E088DA}|LAB4.vcxproj|solutionrelative:Example.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Enrollment.h",
+              "RelativeDocumentMoniker": "Enrollment.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Enrollment.h",
+              "RelativeToolTip": "Enrollment.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T00:34:21.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enrollment.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Enrollment.cpp",
+              "RelativeDocumentMoniker": "Enrollment.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Enrollment.cpp",
+              "RelativeToolTip": "Enrollment.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T00:37:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Employee.h",
+              "RelativeDocumentMoniker": "Employee.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Employee.h",
+              "RelativeToolTip": "Employee.h",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T00:34:33.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Employee.cpp",
+              "RelativeDocumentMoniker": "Employee.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Employee.cpp",
+              "RelativeToolTip": "Employee.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T00:36:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkingStudent.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\WorkingStudent.cpp",
+              "RelativeDocumentMoniker": "WorkingStudent.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\WorkingStudent.cpp",
+              "RelativeToolTip": "WorkingStudent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T00:37:34.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkingStudent.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\WorkingStudent.h",
+              "RelativeDocumentMoniker": "WorkingStudent.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\WorkingStudent.h",
+              "RelativeToolTip": "WorkingStudent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T00:34:53.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Security.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Security.h",
+              "RelativeDocumentMoniker": "Security.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Security.h",
+              "RelativeToolTip": "Security.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T00:34:09.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Security.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Security.cpp",
+              "RelativeDocumentMoniker": "Security.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Security.cpp",
+              "RelativeToolTip": "Security.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T00:37:18.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB4.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\LAB4.cpp",
+              "RelativeDocumentMoniker": "LAB4.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\LAB4.cpp",
+              "RelativeToolTip": "LAB4.cpp",
+              "ViewState": "AgIAAOMAAACAMzMzMzMrwPYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T19:50:08.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Course.cpp",
+              "RelativeDocumentMoniker": "Course.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Course.cpp",
+              "RelativeToolTip": "Course.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv1MAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T00:35:51.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Course.h",
+              "RelativeDocumentMoniker": "Course.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Course.h",
+              "RelativeToolTip": "Course.h",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T00:33:22.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AbsCourse.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\AbsCourse.h",
+              "RelativeDocumentMoniker": "AbsCourse.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\AbsCourse.h",
+              "RelativeToolTip": "AbsCourse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:12:24.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AbsUser.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\AbsUser.h",
+              "RelativeDocumentMoniker": "AbsUser.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\AbsUser.h",
+              "RelativeToolTip": "AbsUser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T23:45:54.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Stud.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Stud.cpp",
+              "RelativeDocumentMoniker": "Stud.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Stud.cpp",
+              "RelativeToolTip": "Stud.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv1gAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T00:35:03.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Stud.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Stud.h",
+              "RelativeDocumentMoniker": "Stud.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Stud.h",
+              "RelativeToolTip": "Stud.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T08:16:06.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tech.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Tech.cpp",
+              "RelativeDocumentMoniker": "Tech.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Tech.cpp",
+              "RelativeToolTip": "Tech.cpp",
+              "ViewState": "AgIAALAAAAAAAAAAAADwv8gAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T00:35:20.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tech.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Tech.h",
+              "RelativeDocumentMoniker": "Tech.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Tech.h",
+              "RelativeToolTip": "Tech.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T00:33:10.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\User.cpp",
+              "RelativeDocumentMoniker": "User.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\User.cpp",
+              "RelativeToolTip": "User.cpp",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T00:35:18.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T00:32:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Example.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Example.cpp",
+              "RelativeDocumentMoniker": "Example.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Example.cpp",
+              "RelativeToolTip": "Example.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T00:54:03.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Example.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Example.h",
+              "RelativeDocumentMoniker": "Example.h",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\\u043B\u0430\u0431\u04305\\LAB5\\Example.h",
+              "RelativeToolTip": "Example.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T00:53:31.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
