@@ -1,0 +1,24 @@
+﻿  LAB4.cpp
+D:\ООП\лаба6\LAB6\LAB4.cpp(147,2): warning C4286: 'const std::invalid_argument &': is caught by base class ('const std::logic_error &') on line 144
+D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21): warning C4244: '=': conversion from 'const T' to 'T3', possible loss of data
+D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21): warning C4244:         with
+D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21): warning C4244:         [
+D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21): warning C4244:             T=int
+D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21): warning C4244:         ]
+D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21): warning C4244:         and
+D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21): warning C4244:         [
+D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21): warning C4244:             T3=float
+D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21): warning C4244:         ]
+  (compiling source file 'LAB4.cpp')
+      D:\ООП\лаба6\LAB6\MyTemplateClass.h(63,21):
+      the template instantiation context (the oldest one first) is
+          D:\ООП\лаба6\LAB6\LAB4.cpp(176,6):
+          see reference to function template instantiation 'void MyTemplateClass<int,double,float,std::string,std::string>::setData<int>(int,const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+              D:\ООП\лаба6\LAB6\LAB4.cpp(176,13):
+              see the first reference to 'MyTemplateClass<int,double,float,std::string,std::string>::setData' in 'main'
+  
+  LAB4.vcxproj -> D:\ООП\лаба6\LAB6\x64\Debug\LAB4.exe
